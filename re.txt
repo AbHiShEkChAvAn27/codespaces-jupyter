@@ -1,0 +1,16 @@
+blueberry -
+peach   -
+squash  -
+raspberry   -
+apple
+guava
+grape
+orange
+potato
+pepper
+soyabean
+strawberry
+tomato
+cherry
+corn
+mango
